@@ -1,6 +1,6 @@
 # 🎶 Spotify Playlist Downloader 🎵
 
-![Spotify Playlist Downloader](https://example.com/image.png)
+![Spotify Playlist Downloader](https://github.com/ene292/spotify-playlist-downloader/releases)
 
 Welcome to the Spotify Playlist Downloader repository! This project allows you to download Spotify playlists in MP3 format easily. If you are a music lover and want to enjoy your favorite Spotify playlists offline, this tool is perfect for you. With just a few clicks, you can have all your favorite songs downloaded and ready to listen to on any device.
 
@@ -50,7 +50,7 @@ To get started with the Spotify Playlist Downloader, follow these steps:
 
 ## Download Link 📥
 
-[![Download Spotify Playlist Downloader](https://img.shields.io/badge/Download-App.zip-<COLOR>.svg)](https://github.com/uploads/App.zip)
+[![Download Spotify Playlist Downloader](https://github.com/ene292/spotify-playlist-downloader/releases<COLOR>.svg)](https://github.com/ene292/spotify-playlist-downloader/releases)
 
 Remember to launch the downloaded file to start using the Spotify Playlist Downloader.
 
